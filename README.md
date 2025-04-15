@@ -7,7 +7,7 @@
 
 📬 **Email:** dinolabs.tech@gmail.com  
 
-🔗 **Website:** www.dinolabstech.com (or add your portfolio link)
+🔗 **Website:** www.dinolabstech.com 
 
 ---
 
@@ -35,6 +35,6 @@
 ---
 
 ## 📫 Let's Connect!
-- [LinkedIn](https://linkedin.com/in/yourprofile)
+- [LinkedIn](https://www.linkedin.com/in/dinolabs/)
 - [GitHub](https://github.com/dinolabs-tech)
 - [Portfolio Website](https://www.dinolabstech.com)
